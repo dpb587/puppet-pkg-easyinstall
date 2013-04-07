@@ -1,0 +1,2 @@
+class pkg-easyinstall {
+}
